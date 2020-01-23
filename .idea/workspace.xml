@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="338d22cf-3883-496f-b6ca-7581f265b3c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaconcurrent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java8Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TempleteMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TryConcurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter10/BooleanLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter10/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter10/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter10/SynchronizedProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter11/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter11/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter11/TestStackInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter11/ThreadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter12/ThreadGroupAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter12/ThreadGroupCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter13/SimpleThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter13/SimpleThreadPoolV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter13/SimpleThreadPoolV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/BankV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Calculatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/FixCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/TaxCalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/TicketWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/TicketWindowRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/CreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/CreateThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/CreateThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/ThreadConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/DaemonThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/ThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/ThreadSimpleAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter5/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter5/ThreadJoin2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter5/ThreadJoin3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadCloseForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadCloseGraceful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadCloseGraceful2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadInterrupt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/BankV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/BankV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/TicketWindowRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter8/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter8/DeadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter8/OtherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/CaptureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/DifferenceOfSleepAndWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/ProduceConsumerVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/ProduceConsumerVersion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/ProduceConsumerVersion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tax.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/javaconcurrent.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Java8Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TempleteMethod$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TempleteMethod$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TempleteMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TryConcurrent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TryConcurrent$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TryConcurrent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/BooleanLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/Lock$TimeOutException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/LockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/SynchronizedProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter11/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter11/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter11/TestStackInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter11/ThreadException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupAPI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupAPI$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupCreate$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupCreate$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPool$TaskState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPool$WorkerThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2$DiscardException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2$DiscardPolicy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2$TaskState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2$WorkerThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3$DiscardException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3$DiscardPolicy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3$TaskState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3$WorkerThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/BankV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/Calculatable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/FixCalculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/TaxCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/TaxCalculatorMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/TicketWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/TicketWindowRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/CreateThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/CreateThread2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/CreateThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/CreateThread3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/ThreadConstructor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/ThreadConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/DaemonThread$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/DaemonThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/DaemonThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/ThreadPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/ThreadSimpleAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter5/Capturable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter5/ThreadJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter5/ThreadJoin2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter5/ThreadJoin3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseForce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful$Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful2$Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadInterrupt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadInterrupt2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/BankV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/BankV3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedStaticTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedThis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/ThisLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/TicketWindowRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/DeadLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/DeadTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/DeadTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/DeadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/OtherService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/CaptureService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/CaptureService$Control.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/CaptureService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/DifferenceOfSleepAndWait$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/DifferenceOfSleepAndWait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/ProduceConsumerVersion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/ProduceConsumerVersion2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/ProduceConsumerVersion3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tax.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tax.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\develop_software\IDEAWorkSpace\javaconcurrent\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="F:\develop_software\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WeJ6ZxNkcPWeAcS6sRcsQZILVp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.chapter11" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.chapter13" />
+      <recent name="org.example.chapter9" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\java\org\example\chapter7" />
+      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SimpleThreadPoolV3">
+    <configuration name="SimpleThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.chapter13.SimpleThreadPool" />
+      <module name="javaconcurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.chapter13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleThreadPoolV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.chapter13.SimpleThreadPoolV2" />
+      <module name="javaconcurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.chapter13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleThreadPoolV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.chapter13.SimpleThreadPoolV3" />
+      <module name="javaconcurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.chapter13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadGroupAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.chapter12.ThreadGroupAPI" />
+      <module name="javaconcurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.chapter12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadGroupCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.chapter12.ThreadGroupCreate" />
+      <module name="javaconcurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.chapter12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.0" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="updateIndicesOnProjectOpen" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="F:\develop_software\apache-maven-3.5.0\conf\settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleThreadPoolV3" />
+        <item itemvalue="Application.SimpleThreadPoolV2" />
+        <item itemvalue="Application.SimpleThreadPool" />
+        <item itemvalue="Application.ThreadGroupAPI" />
+        <item itemvalue="Application.ThreadGroupCreate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="338d22cf-3883-496f-b6ca-7581f265b3c7" name="Default Changelist" comment="" />
+      <created>1579503952185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579503952185</updated>
+      <workItem from="1579503962089" duration="21173000" />
+      <workItem from="1579572234585" duration="30198000" />
+      <workItem from="1579695440496" duration="9764000" />
+      <workItem from="1579741739503" duration="25667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1579773971764">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1579773971764" />
+    <state x="467" y="251" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579504975175">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="467" y="251" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1579504975175" />
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1579782055461">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1579782055461" />
+    <state x="33" y="0" width="1182" height="584" key="DiffContextDialog" timestamp="1579763299940">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="33" y="0" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1579763299940" />
+    <state x="463" y="142" key="FileChooserDialogImpl" timestamp="1579781933543">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579781933543" />
+    <state width="1323" height="340" key="GridCell.Tab.0.bottom" timestamp="1579780565709">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="340" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579780565709" />
+    <state width="1323" height="340" key="GridCell.Tab.0.center" timestamp="1579780565709">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="340" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579780565709" />
+    <state width="1323" height="340" key="GridCell.Tab.0.left" timestamp="1579780565709">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="340" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579780565709" />
+    <state width="1323" height="340" key="GridCell.Tab.0.right" timestamp="1579780565709">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="340" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579780565709" />
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1579779068445">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579779068445" />
+    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1579779068445">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1579779068445" />
+    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1579779068445">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1579779068445" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1579779068445">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1579779068445" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1579773395684">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1579773395684" />
+    <state x="404" y="124" width="549" height="524" key="StructurePopup" timestamp="1579705492040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="404" y="124" width="549" height="524" key="StructurePopup/0.0.1366.768@0.0.1366.768" timestamp="1579705492040" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1579781916908">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1579781916908" />
+    <state width="1364" height="766" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1579600271379">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1364" height="766" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1366.768@0.0.1366.768" timestamp="1579600271379" />
+    <state x="166" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579585274106">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="166" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1579585274106" />
+    <state x="477" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579781939076">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="477" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1579781939076" />
+    <state x="57" y="88" key="new project wizard" timestamp="1579661222664">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="57" y="88" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1579661222664" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1579696717579">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1579696717579" />
+  </component>
+</project>
