@@ -2,172 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="338d22cf-3883-496f-b6ca-7581f265b3c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaconcurrent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Java8Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TempleteMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TryConcurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter10/BooleanLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter10/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter10/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter10/SynchronizedProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter11/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter11/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter11/TestStackInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter11/ThreadException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter12/ThreadGroupAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter12/ThreadGroupCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter13/SimpleThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter13/SimpleThreadPoolV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter13/SimpleThreadPoolV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/BankV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/Calculatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/FixCalculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/TaxCalculatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/TicketWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter2/TicketWindowRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/CreateThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/CreateThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/CreateThread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter3/ThreadConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/DaemonThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/DaemonThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/ThreadPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter4/ThreadSimpleAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter5/ThreadJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter5/ThreadJoin2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter5/ThreadJoin3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadCloseForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadCloseGraceful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadCloseGraceful2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadInterrupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadInterrupt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter6/ThreadService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/BankV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/BankV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/SynchronizedThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter7/TicketWindowRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter8/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter8/DeadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter8/OtherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/CaptureService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/DifferenceOfSleepAndWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/ProduceConsumerVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/ProduceConsumerVersion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chapter9/ProduceConsumerVersion3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tax.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/javaconcurrent.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Java8Thread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TempleteMethod$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TempleteMethod$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TempleteMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TryConcurrent$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TryConcurrent$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TryConcurrent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/BooleanLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/Lock$TimeOutException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/Lock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/LockTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter10/SynchronizedProblem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter11/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter11/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter11/TestStackInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter11/ThreadException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupAPI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupAPI$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupCreate$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupCreate$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter12/ThreadGroupCreate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPool$TaskState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPool$WorkerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2$DiscardException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2$DiscardPolicy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2$TaskState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2$WorkerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3$DiscardException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3$DiscardPolicy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3$TaskState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3$WorkerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter13/SimpleThreadPoolV3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/BankV2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/Calculatable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/FixCalculate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/TaxCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/TaxCalculatorMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/TicketWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter2/TicketWindowRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/CreateThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/CreateThread2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/CreateThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/CreateThread3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/ThreadConstructor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter3/ThreadConstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/DaemonThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/DaemonThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/DaemonThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/ThreadPriority.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter4/ThreadSimpleAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter5/Capturable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter5/ThreadJoin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter5/ThreadJoin2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter5/ThreadJoin3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseForce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful$Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful2$Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadCloseGraceful2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadInterrupt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadInterrupt2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter6/ThreadService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/BankV2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/BankV3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedStatic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedStaticTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/SynchronizedThis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/ThisLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter7/TicketWindowRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/DeadLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/DeadTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/DeadTest$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/DeadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter8/OtherService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/CaptureService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/CaptureService$Control.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/CaptureService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/DifferenceOfSleepAndWait$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/DifferenceOfSleepAndWait.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/ProduceConsumerVersion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/ProduceConsumerVersion2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/chapter9/ProduceConsumerVersion3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/tax.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tax.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -376,12 +211,24 @@
       <workItem from="1579503962089" duration="21173000" />
       <workItem from="1579572234585" duration="30198000" />
       <workItem from="1579695440496" duration="9764000" />
-      <workItem from="1579741739503" duration="25667000" />
+      <workItem from="1579741739503" duration="25925000" />
     </task>
+    <task id="LOCAL-00001" summary="java-concurrent-in-action Learning Code">
+      <created>1579782142910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579782142910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java-concurrent-in-action Learning Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-concurrent-in-action Learning Code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1579773971764">
@@ -392,10 +239,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="467" y="251" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1579504975175" />
-    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1579782055461">
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1579782140276">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1579782055461" />
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1579782140276" />
     <state x="33" y="0" width="1182" height="584" key="DiffContextDialog" timestamp="1579763299940">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -444,10 +291,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="404" y="124" width="549" height="524" key="StructurePopup/0.0.1366.768@0.0.1366.768" timestamp="1579705492040" />
-    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1579781916908">
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1579782167189">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1579781916908" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1579782167189" />
     <state width="1364" height="766" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1579600271379">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
