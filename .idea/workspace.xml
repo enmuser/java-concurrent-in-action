@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="338d22cf-3883-496f-b6ca-7581f265b3c7" name="Default Changelist" comment="">
+    <list default="true" id="338d22cf-3883-496f-b6ca-7581f265b3c7" name="Default Changelist" comment="java-concurrent-in-action Learning Code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter1/SingletonObject1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter1/SingletonObject2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter1/SingletonObject3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter1/SingletonObject4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter1/SingletonObject5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter1/SingletonObject6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter1/SingletonObject7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter10/ThreadLocalComplexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter10/ThreadLocalSimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter10/ThreadLocalSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter10/ThreadLocalSimulatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter11/ActionContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter11/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter11/ContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter11/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter11/QueryFromDBAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter11/QueryFromHttpAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter12/BalkingClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter12/BalkingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter12/CustomerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter12/WaiterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter13/ConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter13/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter13/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter13/ProducerAndConsumerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter13/ProducerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter14/CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter14/CustomCountDownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter14/JDKCountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter15/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter15/MessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter15/PerThreadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter16/AppServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter16/AppServerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter16/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter16/CounterIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter16/CounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter17/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter17/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter17/TransportThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter17/WorkerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter17/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/ActivationQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/ActiveObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/ActiveObjectClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/ActiveObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/ActiveObjectProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/DisplayClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/DisplayStringRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/FutureResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/MakeStringRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/MakerClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/MethodRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/RealResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/SchedulerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter18/Servant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter2/WaitSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter3/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter3/VolatileTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/LifeCycleListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/LifeCycleListener2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/ObservableRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/ObserverClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/ObserverableRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/ThreadLifeCycleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/ThreadLifeCycleObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter4/ThreadLifeCycleObserver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter5/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter6/ReadWritLockClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter6/ReadWriterLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter6/ReaderWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter6/SharedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter6/WriterWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter8/AsynchronizedFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter8/Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter8/FutureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter8/FutureTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter8/TaskClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter9/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter9/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter9/RequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter9/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter9/SuspensionClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,32 +141,39 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/design/pattern/chapter13" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="org.example.chapter11" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\java\org\design\pattern\chapter13" />
+      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\java\org\design\pattern\chapter12" />
+      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\java\org\design\pattern\chapter11" />
+      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\java\org\design\pattern\chapter10" />
+      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\java\org\design\pattern\chapter6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.design.pattern.chapter6" />
+      <recent name="org.design.pattern.chapter1" />
       <recent name="org.example.chapter13" />
       <recent name="org.example.chapter9" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\java\org\example\chapter7" />
-      <recent name="F:\develop_software\IDEAWorkSpace\javaconcurrent\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.design.pattern.chapter18" />
+      <recent name="org.design.pattern.chapter4" />
+      <recent name="org.example.chapter11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleThreadPoolV3">
-    <configuration name="SimpleThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.chapter13.SimpleThreadPool" />
+  <component name="RunManager" selected="Application.ActiveObjectClient">
+    <configuration name="ActiveObjectClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.pattern.chapter18.ActiveObjectClient" />
       <module name="javaconcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.chapter13.*" />
+          <option name="PATTERN" value="org.design.pattern.chapter18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleThreadPoolV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.chapter13.SimpleThreadPoolV2" />
+    <configuration name="AppServerClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.pattern.chapter16.AppServerClient" />
       <module name="javaconcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.chapter13.*" />
+          <option name="PATTERN" value="org.design.pattern.chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleThreadPoolV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.chapter13.SimpleThreadPoolV3" />
+    <configuration name="CounterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.pattern.chapter16.CounterTest" />
       <module name="javaconcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.chapter13.*" />
+          <option name="PATTERN" value="org.design.pattern.chapter16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadGroupAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.chapter12.ThreadGroupAPI" />
+    <configuration name="PerThreadClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.pattern.chapter15.PerThreadClient" />
       <module name="javaconcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.chapter12.*" />
+          <option name="PATTERN" value="org.design.pattern.chapter15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadGroupCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.chapter12.ThreadGroupCreate" />
+    <configuration name="WorkerClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.pattern.chapter17.WorkerClient" />
       <module name="javaconcurrent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.chapter12.*" />
+          <option name="PATTERN" value="org.design.pattern.chapter17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleThreadPoolV3" />
-        <item itemvalue="Application.SimpleThreadPoolV2" />
-        <item itemvalue="Application.SimpleThreadPool" />
-        <item itemvalue="Application.ThreadGroupAPI" />
-        <item itemvalue="Application.ThreadGroupCreate" />
+        <item itemvalue="Application.ActiveObjectClient" />
+        <item itemvalue="Application.WorkerClient" />
+        <item itemvalue="Application.AppServerClient" />
+        <item itemvalue="Application.CounterTest" />
+        <item itemvalue="Application.PerThreadClient" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +308,13 @@
       <workItem from="1579503962089" duration="21173000" />
       <workItem from="1579572234585" duration="30198000" />
       <workItem from="1579695440496" duration="9764000" />
-      <workItem from="1579741739503" duration="25925000" />
+      <workItem from="1579741739503" duration="39019000" />
+      <workItem from="1579833452795" duration="1232000" />
+      <workItem from="1580001349739" duration="1304000" />
+      <workItem from="1580016659469" duration="1555000" />
+      <workItem from="1580023947746" duration="14411000" />
+      <workItem from="1580181294627" duration="26338000" />
+      <workItem from="1580260807779" duration="19760000" />
     </task>
     <task id="LOCAL-00001" summary="java-concurrent-in-action Learning Code">
       <created>1579782142910</created>
@@ -231,42 +334,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="java-concurrent-in-action Learning Code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1579773971764">
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1580291183149">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1579773971764" />
-    <state x="467" y="251" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579504975175">
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1580291183149" />
+    <state x="467" y="251" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580291692798">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="467" y="251" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1579504975175" />
-    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1579782140276">
+    <state x="467" y="251" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1580291692798" />
+    <state x="231" y="0" key="CommitChangelistDialog2" timestamp="1579782586959">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1579782140276" />
+    <state x="231" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1579782586959" />
     <state x="33" y="0" width="1182" height="584" key="DiffContextDialog" timestamp="1579763299940">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="33" y="0" width="1182" height="584" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1579763299940" />
-    <state x="463" y="142" key="FileChooserDialogImpl" timestamp="1579781933543">
+    <state x="463" y="142" key="FileChooserDialogImpl" timestamp="1580025834191">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579781933543" />
-    <state width="1323" height="340" key="GridCell.Tab.0.bottom" timestamp="1579780565709">
+    <state x="463" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1580025834191" />
+    <state width="1323" height="248" key="GridCell.Tab.0.bottom" timestamp="1580291744688">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="340" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579780565709" />
-    <state width="1323" height="340" key="GridCell.Tab.0.center" timestamp="1579780565709">
+    <state width="1323" height="248" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1580291744688" />
+    <state width="1323" height="248" key="GridCell.Tab.0.center" timestamp="1580291744688">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="340" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579780565709" />
-    <state width="1323" height="340" key="GridCell.Tab.0.left" timestamp="1579780565709">
+    <state width="1323" height="248" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1580291744688" />
+    <state width="1323" height="248" key="GridCell.Tab.0.left" timestamp="1580291744688">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="340" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579780565709" />
-    <state width="1323" height="340" key="GridCell.Tab.0.right" timestamp="1579780565709">
+    <state width="1323" height="248" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1580291744688" />
+    <state width="1323" height="248" key="GridCell.Tab.0.right" timestamp="1580291744688">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="340" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579780565709" />
+    <state width="1323" height="248" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1580291744688" />
     <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1579779068445">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -287,10 +390,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1579773395684" />
-    <state x="404" y="124" width="549" height="524" key="StructurePopup" timestamp="1579705492040">
+    <state x="404" y="124" width="549" height="524" key="StructurePopup" timestamp="1580197165462">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="404" y="124" width="549" height="524" key="StructurePopup/0.0.1366.768@0.0.1366.768" timestamp="1579705492040" />
+    <state x="404" y="124" width="549" height="524" key="StructurePopup/0.0.1366.768@0.0.1366.768" timestamp="1580197165462" />
     <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1579782167189">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -315,5 +418,20 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1579696717579" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580289289129">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1580289289129" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/design/pattern/chapter11/ActionContext.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
